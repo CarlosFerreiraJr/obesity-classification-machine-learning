@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Arquivos auxiliares
+*.pptx
+*.xlsx
+
+# Datasets originais
+train.csv
+test.csv
+sample_submission.csv
+
+# PDFs
+*.pdf
+
+# Manter somente a apresentação final
+!Trabalho-Machine-Learning-outubro-2026.pdf
